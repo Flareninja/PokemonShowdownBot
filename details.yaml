@@ -1,18 +1,18 @@
 # Create a copy of this file named details.yaml and edit settings accordingly
 # This is the username you want the bot to have, MUST BE REGISTRED
-user: username
+user: GalaBot
 
 # The password for the bot
-password: password
+password: martina
 
 # MASTER bypass every allowance check and can do everything
-master: your name here
+master: Flareninja
 
 # command character, preferably something that people don't start sentences with. Use '' as bounds
-command: 'x'
+command: '.'
 
 # The userauth level people need to broadcast commands back in chat. Can be changed during run-time.
-broadcastrank: ' '
+broadcastrank: '@'
 
 # OPTIONAL: The specific avatar the bot should use. Leave as 0 to pick the default one.
 avatar: 0
